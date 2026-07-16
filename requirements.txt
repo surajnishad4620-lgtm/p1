@@ -1,6 +1,5 @@
-Python
-Pandas
-Plotly
-Matplotlib
-Seaborn
+pandas
+plotly
+matplotlib
+seaborn
 
